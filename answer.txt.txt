@@ -1,2 +1,3 @@
 aca escirbiendo algo para el lab 0
 haciendo el commit 2 paso 11
+tercer paso que no lea el otro archivo
